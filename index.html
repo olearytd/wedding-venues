@@ -38,6 +38,17 @@
     }).addTo(map);
   });
 
+  $.getJSON("homes.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data,{
+      pointToLayer: function(feature,latlng){
+        var marker = L.marker(latlng);
+        marker.bindPopup(feature.properties.Name + '<br/>' + feature.properties.Address);
+        return marker;
+      }
+    }).addTo(map);
+  });  
+
   </script>
 </body>
 </html>
