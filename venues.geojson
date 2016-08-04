@@ -2,13 +2,45 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 1, "properties": { "Name": "Keswick Vineyards", "LATITUDE": 38.076489, "LONGITUDE": -78.287730, "Address": "1575 Keswick Winery Dr, Keswick, VA 22947" }, "geometry": { "type": "Point", "coordinates": [ -78.28773, 38.076489 ] } },
+  { "type": "Feature",
+   "id": 1, 
+   "properties": { 
+     "Name": "Keswick Vineyards", 
+     "LATITUDE": 38.076489, 
+     "LONGITUDE": -78.287730, 
+     "Address": "1575 Keswick Winery Dr, Keswick, VA 22947" }, 
+     "geometry": { "type": "Point", "coordinates": [ -78.28773, 38.076489 ] } 
+  },
 
-{ "type": "Feature", "id": 1, "properties": { "Name": "Home", "LATITUDE": 38.960866, "LONGITUDE": -77.362706, "Address": "12013 Taliesin Pl #31, Reston, VA 20190" }, "geometry": { "type": "Point", "coordinates": [ -77.362706, 38.960866 ] } },
+  { "type": "Feature",
+   "id": 2, 
+   "properties": { 
+     "Name": "Home", 
+     "LATITUDE": 38.960866, 
+     "LONGITUDE": -77.362706, 
+     "Address": "12013 Taliesin Pl #31, Reston, VA 20190" }, 
+     "geometry": { "type": "Point", "coordinates": [ -77.362706, 38.960866 ] } 
+  },
 
-{ "type": "Feature", "id": 1, "properties": { "Name": "OLearys", "LATITUDE": 38.314346, "LONGITUDE":  -77.579285, "Address": "13022 Dahlia Lane, Fredericksburg, VA 22407" }, "geometry": { "type": "Point", "coordinates": [ -77.579285, 38.314346 ] } },
+  { "type": "Feature", 
+  "id": 3, 
+  "properties": { 
+    "Name": "OLearys", 
+    "LATITUDE": 38.314346, 
+    "LONGITUDE":  -77.579285, 
+    "Address": "13022 Dahlia Lane, Fredericksburg, VA 22407" }, 
+    "geometry": { "type": "Point", "coordinates": [ -77.579285, 38.314346 ] } 
+  },
 
-{ "type": "Feature", "id": 1, "properties": { "Name": "Freeds", "LATITUDE": 38.069733, "LONGITUDE": -78.912971, "Address": "TBD" }, "geometry": { "type": "Point", "coordinates": [ -78.912971, 38.069733 ] } }
+  { "type": "Feature", 
+  "id": 4, 
+  "properties": { 
+    "Name": "Freeds", 
+    "LATITUDE": 38.069733, 
+    "LONGITUDE": -78.912971, 
+    "Address": "TBD" }, 
+    "geometry": { "type": "Point", "coordinates": [ -78.912971, 38.069733 ] } 
+  }
 
 ]
 }
