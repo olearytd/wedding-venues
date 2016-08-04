@@ -2,7 +2,9 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 1, "properties": { "Name": "Keswick Vineyards", "LATITUDE": 38.076489, "LONGITUDE": -78.287730, "Address": "1575 Keswick Winery Dr, Keswick, VA 22947" }, "geometry": { "type": "Point", "coordinates": [ -78.28773, 38.076489 ] } }
+{ "type": "Feature", "id": 1, "properties": { "Name": "Keswick Vineyards", "LATITUDE": 38.076489, "LONGITUDE": -78.287730, "Address": "1575 Keswick Winery Dr, Keswick, VA 22947" }, "geometry": { "type": "Point", "coordinates": [ -78.28773, 38.076489 ] } },
+
+{ "type": "Feature", "id": 1, "properties": { "Name": "Home", "LATITUDE": 38.960866, "LONGITUDE": -77.362706, "Address": "12013 Taliesin Pl #31, Reston, VA 20190" }, "geometry": { "type": "Point", "coordinates": [ -77.362706, 38.960866 ] } }
 
 ]
 }
