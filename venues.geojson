@@ -10,6 +10,46 @@
      "LONGITUDE": -78.287730, 
      "Address": "1575 Keswick Winery Dr, Keswick, VA 22947" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.28773, 38.076489 ] } 
+  },
+
+  { "type": "Feature",
+   "id": 2, 
+   "properties": { 
+     "Name": "Early Mountain Vineyards", 
+     "LATITUDE": 38.351963, 
+     "LONGITUDE": -78.310106, 
+     "Address": "6109 Wolftown-Hood Rd, Madison, VA 22727" }, 
+     "geometry": { "type": "Point", "coordinates": [ -78.310106, 38.351963 ] } 
+  },
+
+  { "type": "Feature",
+   "id": 3, 
+   "properties": { 
+     "Name": "King Family Vineyards", 
+     "LATITUDE": 38.062358, 
+     "LONGITUDE": -78.728549, 
+     "Address": "6550 Roseland Farm, Crozet, VA 22932" }, 
+     "geometry": { "type": "Point", "coordinates": [ -78.728549, 38.062358 ] } 
+  },
+
+  { "type": "Feature",
+   "id": 4, 
+   "properties": { 
+     "Name": "Inn at Willow Grove", 
+     "LATITUDE": 38.273163, 
+     "LONGITUDE": -78.131827, 
+     "Address": "14079 Plantation Way, Orange, VA 22960" }, 
+     "geometry": { "type": "Point", "coordinates": [ -78.131827, 38.273163 ] } 
+  },
+
+  { "type": "Feature",
+   "id": 5, 
+   "properties": { 
+     "Name": "Braehead Manor", 
+     "LATITUDE": 38.281393, 
+     "LONGITUDE": -77.473147, 
+     "Address": "123 Lee Dr, Fredericksburg, VA 22401" }, 
+     "geometry": { "type": "Point", "coordinates": [ -77.473147, 38.281393 ] } 
   }
 
 ]
