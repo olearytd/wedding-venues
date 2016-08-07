@@ -41,11 +41,10 @@
   $.getJSON("homes.geojson",function(data){
     // add custom icon for houses
     var homeIcon = L.icon({
-      //options: {
-        iconUrl: 'images/house.png',
-        iconSize: [20,20]
-      //}
+      iconUrl: 'images/house.png',
+      iconSize: [20,20]
     });
+    
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data,{
       pointToLayer: function(feature,latlng){
