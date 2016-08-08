@@ -8,6 +8,7 @@
      "Name": "Keswick Vineyards", 
      "LATITUDE": 38.076489, 
      "LONGITUDE": -78.287730, 
+     "Website": "http://www.keswickvineyards.com/",
      "Address": "1575 Keswick Winery Dr, Keswick, VA 22947" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.28773, 38.076489 ] } 
   },
@@ -18,6 +19,7 @@
      "Name": "Early Mountain Vineyards", 
      "LATITUDE": 38.351963, 
      "LONGITUDE": -78.310106, 
+     "Website": "http://www.earlymountain.com/",
      "Address": "6109 Wolftown-Hood Rd, Madison, VA 22727" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.310106, 38.351963 ] } 
   },
@@ -28,6 +30,7 @@
      "Name": "King Family Vineyards", 
      "LATITUDE": 38.062358, 
      "LONGITUDE": -78.728549, 
+     "Website": "http://www.earlymountain.com/", 
      "Address": "6550 Roseland Farm, Crozet, VA 22932" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.728549, 38.062358 ] } 
   },
@@ -38,6 +41,7 @@
      "Name": "Inn at Willow Grove", 
      "LATITUDE": 38.273163, 
      "LONGITUDE": -78.131827, 
+     "Website": "http://www.innatwillowgrove.com/",
      "Address": "14079 Plantation Way, Orange, VA 22960" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.131827, 38.273163 ] } 
   },
@@ -48,6 +52,7 @@
      "Name": "Braehead Manor", 
      "LATITUDE": 38.281393, 
      "LONGITUDE": -77.473147, 
+     "Website": "http://www.braeheadmanor.com/",
      "Address": "123 Lee Dr, Fredericksburg, VA 22401" }, 
      "geometry": { "type": "Point", "coordinates": [ -77.473147, 38.281393 ] } 
   },
@@ -57,7 +62,8 @@
    "properties": { 
      "Name": "Inn at Westwood Farm", 
      "LATITUDE": 38.237967, 
-     "LONGITUDE": -78.160956, 
+     "LONGITUDE": -78.160956,
+     "Website": "http://www.innatwestwoodfarm.com/", 
      "Address": "12256 Montford Rd, Orange, VA 22960" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.160956, 38.237967 ] } 
   },
@@ -68,6 +74,7 @@
      "Name": "Hermitage Hill Farm and Stables", 
      "LATITUDE": 38.160033, 
      "LONGITUDE": -78.906152, 
+     "Website": "http://www.hermitagehillfarm.com/",
      "Address": "375 Madrid Rd, Waynesboro, VA 22980" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.906152, 38.160033 ] } 
   },
@@ -77,7 +84,8 @@
    "properties": { 
      "Name": "Chestnut Hill Bed and Breakfast", 
      "LATITUDE": 38.238898, 
-     "LONGITUDE": -78.113571, 
+     "LONGITUDE": -78.113571,
+     "Website": "http://www.chestnuthillbnb.com/", 
      "Address": "236 Caroline St, Orange, VA 22960" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.113571, 38.238898 ] } 
   },
@@ -88,6 +96,7 @@
      "Name": "First Colony Winery", 
      "LATITUDE": 37.892909, 
      "LONGITUDE": -78.556955, 
+     "Website": "http://www.firstcolonywinery.com/",
      "Address": "1650 Harris Creek Rd, Charlottesville, VA 22902" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.556955, 37.892909 ] } 
   },
@@ -98,6 +107,7 @@
      "Name": "The Pavilion on Lakeland Farm", 
      "LATITUDE": 38.217098, 
      "LONGITUDE": -78.134163, 
+     "Website": "http://www.lakelandfarmva.com/",
      "Address": "13475 Sedwick Ln, Orange, VA 22960" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.134163, 38.217098 ] } 
   },
@@ -107,7 +117,8 @@
    "properties": { 
      "Name": "Pippin Hill Farm & Vineyards", 
      "LATITUDE": 37.961930, 
-     "LONGITUDE": -78.658420, 
+     "LONGITUDE": -78.658420,
+     "Website": "http://www.pippinhillfarm.com/", 
      "Address": "5022 Plank Rd, North Garden, VA 22959" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.658420, 37.961930 ] } 
   },
@@ -118,6 +129,7 @@
      "Name": "Montfair Resort Farm", 
      "LATITUDE": 38.162233, 
      "LONGITUDE": -78.678674, 
+     "Website": "http://www.montfairresortfarm.com/",
      "Address": "2500 Bezaleel Dr, Crozet, VA 22932" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.678674, 38.162233 ] } 
   },  
@@ -128,6 +140,7 @@
      "Name": "Meriwether Springs Vineyard", 
      "LATITUDE": 38.066817, 
      "LONGITUDE": -78.594943, 
+     "Website": "https://meriwethersprings.com/",
      "Address": "1040 Owensville Rd, Charlottesville, VA 22901" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.594943, 38.066817 ] } 
   }, 
@@ -138,6 +151,7 @@
      "Name": "Grace Estate Winery", 
      "LATITUDE": 38.119154, 
      "LONGITUDE": -78.678463, 
+     "Website": "http://www.graceestatewinery.com/",
      "Address": "5273 Mt Juliet Farm, Crozet, VA 22932" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.678463, 38.119154 ] } 
   },   
@@ -148,6 +162,7 @@
      "Name": "Castle Hill Cider Llc", 
      "LATITUDE": 38.088786, 
      "LONGITUDE": -78.290868, 
+     "Website": "http://www.castlehillcider.com/",
      "Address": "6065 Turkey Sag Rd, Keswick, VA 22947" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.290868, 38.088786 ] } 
   },   
@@ -157,7 +172,8 @@
    "properties": { 
      "Name": "Cross Keys Vineyards", 
      "LATITUDE": 38.322527, 
-     "LONGITUDE": -78.854005, 
+     "LONGITUDE": -78.854005,
+     "Website": "http://www.crosskeysvineyards.com/",
      "Address": "6011 E Timber Ridge Rd, Mt Crawford, VA 22841" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.854005, 38.322527 ] } 
   }, 
@@ -168,6 +184,7 @@
      "Name": "Sorella Farms", 
      "LATITUDE": 37.218078, 
      "LONGITUDE": -79.264893, 
+     "Website": "http://www.sorella1827.com/",
      "Address": "171 Little Ln, Evington, VA 24550" }, 
      "geometry": { "type": "Point", "coordinates": [ -79.264893, 37.218078 ] } 
   }, 
@@ -177,7 +194,8 @@
    "properties": { 
      "Name": "Mount Ida Farm", 
      "LATITUDE": 37.846577, 
-     "LONGITUDE": -78.498854, 
+     "LONGITUDE": -78.498854,
+     "Website": "http://www.mountidafarm.com/", 
      "Address": "6903 Blenheim Rd, Scottsville, VA 24590" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.498854, 37.846577 ] } 
   },   
@@ -188,6 +206,7 @@
      "Name": "Clifton Inn", 
      "LATITUDE": 38.006822, 
      "LONGITUDE": -78.397104, 
+     "Website": "http://www.clifton-inn.com/",
      "Address": "1296 Clifton Inn Dr, Charlottesville, VA 22911" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.397104, 38.006822 ] } 
   }, 
@@ -198,6 +217,7 @@
      "Name": "Fairview Farm Events", 
      "LATITUDE": 37.508536, 
      "LONGITUDE": -78.080109, 
+     "Website": "http://www.fairviewfarmevents.com/",
      "Address": "1660 Ballsville Rd, Powhatan, VA 23139" }, 
      "geometry": { "type": "Point", "coordinates": [ -78.080109, 37.508536 ] } 
   },
@@ -208,6 +228,7 @@
      "Name": "Riverside on the Potomac", 
      "LATITUDE": 39.222563, 
      "LONGITUDE": -77.464444, 
+     "Website": "http://www.riversideonthepotomac.com/",
      "Address": "44337 Spinks Ferry Rd, Leesburg, VA 20176" }, 
      "geometry": { "type": "Point", "coordinates": [ -77.464444, 39.222563 ] } 
   },   
@@ -218,6 +239,7 @@
      "Name": "New Kent Winery", 
      "LATITUDE": 37.529047, 
      "LONGITUDE": -77.074804, 
+     "Website": "http://www.newkentwinery.com/",
      "Address": "8400 Old Church Rd, New Kent, VA 23124" }, 
      "geometry": { "type": "Point", "coordinates": [ -77.074804, 37.529047 ] } 
   },      
@@ -227,8 +249,9 @@
    "properties": { 
      "Name": "Fairhill Farm", 
      "LATITUDE": 38.329689, 
-     "LONGITUDE": -78.441298, 
-     "Address": "2891 State Rte 621, Stanardsville, VA 22973" }, 
+     "LONGITUDE": -78.441298,
+     "Website": "http://www.fairhillfarmusa.com/", 
+     "Address": "2891 State Rte 621, Stanardsville, VA 22973" },
      "geometry": { "type": "Point", "coordinates": [ -78.441298, 38.329689 ] } 
   }, 
 
@@ -237,8 +260,9 @@
    "properties": { 
      "Name": "West Manor Estate", 
      "LATITUDE": 37.363734, 
-     "LONGITUDE": -79.341383, 
-     "Address": "3594 State Rte 666, Forest, VA 24551" }, 
+     "LONGITUDE": -79.341383,
+     "Website": "http://www.westmanorevents.com/", 
+     "Address": "3594 State Rte 666, Forest, VA 24551" },
      "geometry": { "type": "Point", "coordinates": [ -79.341383, 37.363734 ] } 
   },
 
@@ -248,6 +272,7 @@
      "Name": "Sunset Hills Vineyard", 
      "LATITUDE": 39.179555, 
      "LONGITUDE": -77.677550, 
+     "Website": "https://www.sunsethillsvineyard.com/",
      "Address": "38295 Fremont Overlook Ln, Purcellville, VA 20132" }, 
      "geometry": { "type": "Point", "coordinates": [ -77.677550, 39.179555 ] } 
   },  
@@ -258,7 +283,8 @@
      "Name": "Historic Rosemont Manor", 
      "LATITUDE": 39.156788, 
      "LONGITUDE": -77.993139, 
-     "Address": "16 Rosemont Manor Ln, Berryville, VA 22611" }, 
+     "Website": "http://www.rosemont1811.com/",
+     "Address": "16 Rosemont Manor Ln, Berryville, VA 22611" },
      "geometry": { "type": "Point", "coordinates": [ -77.993139, 39.156788 ] } 
   } 
 

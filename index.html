@@ -32,7 +32,7 @@
     L.geoJson(data,{
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng);
-        marker.bindPopup("<a href='https://www.google.com/maps/place/" + feature.properties.Address + "' target='_blank'>" + feature.properties.Name + "</a>");
+        marker.bindPopup("<a href='" + feature.properties.Website + "' target='_blank'>" + feature.properties.Name + "</a>");
         return marker;
       }
     }).addTo(map);
